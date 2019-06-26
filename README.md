@@ -8,3 +8,5 @@ Modifiez l'image pour que chaque pixel prenne la valeur de la moyenne, puis de l
 Modifiez l'image pour accentuer le contraste : pour chaque pixel on cherche, dans son voisinage, le pixel dont les couleurs sont les plus éloignées des siennes. On augmente alors d'un tiers ce contraste.
 Attention, dans tout le programme, à éviter les effets de bord (cas du pixel p1 augmenté à cause de son contraste avec p2 et de p2 diminué à cause de son contraste avec le nouveau p1).
 On pourra enfin chercher et améliorer les contrastes de "teinte" en mode HSV.
+
+Fait avec Berrai Dyhia
