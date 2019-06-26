@@ -1,5 +1,5 @@
 # Images par proximité 
-Projet de L2 
+Projet de L2 en impérative 2
 
 Ennoncé: 
 
